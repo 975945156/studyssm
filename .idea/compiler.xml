@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="study-ssm-dao" />
+        <module name="study-ssm-domain" />
+        <module name="study-ssm-service" />
+        <module name="study-ssm-utils" />
+        <module name="study-ssm-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="study-ssm-dao" target="1.8" />
+      <module name="study-ssm-domain" target="1.8" />
+      <module name="study-ssm-service" target="1.8" />
+      <module name="study-ssm-utils" target="1.8" />
+      <module name="study-ssm-web" target="1.8" />
+      <module name="studyssm" target="1.5" />
+      <module name="studyssmdao" target="1.8" />
+      <module name="studyssmdomain" target="1.8" />
+      <module name="studyssmservice" target="1.8" />
+      <module name="studyssmutils" target="1.8" />
+      <module name="studyssmweb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/studyssmdao/study-ssm-dao.iml" filepath="$PROJECT_DIR$/studyssmdao/study-ssm-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyssmdomain/study-ssm-domain.iml" filepath="$PROJECT_DIR$/studyssmdomain/study-ssm-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyssmservice/study-ssm-service.iml" filepath="$PROJECT_DIR$/studyssmservice/study-ssm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyssmutils/study-ssm-utils.iml" filepath="$PROJECT_DIR$/studyssmutils/study-ssm-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyssmweb/study-ssm-web.iml" filepath="$PROJECT_DIR$/studyssmweb/study-ssm-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyssm.iml" filepath="$PROJECT_DIR$/studyssm.iml" />
+    </modules>
+  </component>
+</project>
