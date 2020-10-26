@@ -1,12 +1,13 @@
 package study.ssm.domain;
 
 import org.springframework.format.annotation.DateTimeFormat;
+import study.ssm.utils.DateUtils;
 
 import java.util.Date;
-/*
-*编写实体类
+
+/**
  * 产品信息
- * */
+ */
 public class Product {
     private String id; // 主键
     private String productNum; // 编号 唯一
@@ -110,4 +111,3 @@ public class Product {
         this.productStatusStr = productStatusStr;
     }
 }
-
